@@ -1,0 +1,4 @@
+project_id = "iiupskwhowuvvyygcaiv"
+
+[functions.nexo-chat]
+verify_jwt = false
